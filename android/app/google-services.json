@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767911040763",
+    "project_id": "classification-hairtype",
+    "storage_bucket": "classification-hairtype.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767911040763:android:242c5735254c15a415025e",
+        "android_client_info": {
+          "package_name": "com.hairtype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOb13osrJKEepV9VGYnCV2Tl0Vu4WYQ34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
